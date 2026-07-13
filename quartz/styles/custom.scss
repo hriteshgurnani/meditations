@@ -1,15 +1,6 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
-.page > #quartz-body {
-  grid-template:
-    "grid-sidebar-left grid-header"
-    "grid-sidebar-left grid-center"
-    "grid-sidebar-left grid-sidebar-right"
-    "grid-sidebar-left grid-footer"
-    / 350px auto;
-}
-
 .page > #quartz-body .sidebar {
   padding-top: 1rem;
 }
