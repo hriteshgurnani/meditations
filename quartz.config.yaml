@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: hriteshgurnani.github.io/meditations
+  baseUrl: treasuresinchrist.github.io/meditations
   ignorePatterns:
     - private
     - templates
