@@ -3,7 +3,7 @@ title: Four Things Crucified at the Cross
 ---
 
 The Cross of Christ not only accomplished our redemption before God, but
-it also has a profound practical effect upon the believer. 
+it also has a profound practical effect upon the believer.
 Scripture
 speaks of four things that are crucified in connection with the death of
 Christ.
@@ -100,7 +100,7 @@ The Cross of Christ speaks of four great crucifixions in relation to the believe
 
 The Cross not only saves us from the penalty of sin, but also teaches us
 how to live. The old man has been judged, self has been displaced, the
-flesh has been condemned, and the world has lost its hold. 
+flesh has been condemned, and the world has lost its hold.
 
 As we live in the light of these truths, Christ Himself becomes the center and
 satisfaction of our lives.
