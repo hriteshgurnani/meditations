@@ -5,8 +5,6 @@ title: Treasures in Christ
 > "Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me."  
 > — **John 5:39**
 
-Welcome to **Treasures in Christ**.
-
 A collection of Christ-centered devotionals and gleanings from the Word of God, with the desire that every study might lead us to know, love, and worship the Lord Jesus Christ more deeply.
 
 
